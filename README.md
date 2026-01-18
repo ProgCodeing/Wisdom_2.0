@@ -1,8 +1,4 @@
-
-![Logo](https://yt3.ggpht.com/Cu6B5OMTMkRc2PdXWt_u0maFWvL86vSUFUzaElm_npLNhypb7sEPjiptcswPMI57LCjM63WS=s108-c-k-c0x00ffffff-no-rj)
-
-
-# W.I.S.D.O.M.
+# W.I.S.D.O.M. (Wise Intelligence System In Domains Of Machine)
 
 Wisdom Ai is one of the most advance AI
 
@@ -10,14 +6,14 @@ Wisdom Ai is one of the most advance AI
 ## Hi, I'm Tanmay! 👋
 
 * A secondary section boy
-* My Age is 11 years old
-* I am an Amateur programmer
+* My Age is 13 years old
+* I am an Advanced programmer
 
 
 
 ## License
 
-Copyright 2024 Tanmay Hathile
+Copyright 2026 Tanmay Hathile
 
 Permission is hereby granted, to deal in the Software with restriction, including with limitation the rights to use, modify, merge, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -38,12 +34,14 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 - You're personal database
 - Send messages, call, video call in whatsapp
 
-Updates till 2024 ends!
+Updates till 2026 ends!
 
 
 ## 🔗 Links
 
-[Youtube](https://www.youtube.com/channel/UCFXPliXK_YL8XA0YXYCOT8g)
+[Youtube](https://www.youtube.com/@FowlPlaysBadminton)
+[X](https://x.com/Tanmay_Author)
+[Instagram](https://www.instagram.com/tanmay_author/)
 
 
 ## Installation
