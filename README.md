@@ -39,8 +39,8 @@ Updates till 2026 ends!
 
 ## 🔗 Links
 
-[Youtube](https://www.youtube.com/@FowlPlaysBadminton)
-[X](https://x.com/Tanmay_Author)
+[Youtube](https://www.youtube.com/@FowlPlaysBadminton),
+[X](https://x.com/Tanmay_Author),
 [Instagram](https://www.instagram.com/tanmay_author/)
 
 
